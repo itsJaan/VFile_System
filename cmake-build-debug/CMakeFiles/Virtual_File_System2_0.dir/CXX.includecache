@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.cpp
+Bitmap.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Directories.cpp
+Directories.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Directories.h
+iostream
+-
+fstream
+-
+Structuras.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Structuras.h
+Disco.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.h
+Bitmap.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Directories.h
+iostream
+-
+Structuras.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Structuras.h
+Disco.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.h
+Bitmap.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.cpp
+Disco.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.h
+iostream
+-
+fstream
+-
+Structuras.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Structuras.h
+Directories.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Directories.h
+Bitmap.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Structuras.h
+
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/main.cpp
+iostream
+-
+fstream
+-
+Structuras.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Structuras.h
+Directories.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Directories.h
+Disco.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Disco.h
+Bitmap.h
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/Bitmap.h
+

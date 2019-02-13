@@ -1,0 +1,3 @@
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/cmake-build-debug/CMakeFiles/Virtual_File_System2_0.dir
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Javier Nunez/CLionProjects/Virtual_File_System2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
